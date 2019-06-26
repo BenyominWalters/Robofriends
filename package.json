@@ -9,7 +9,7 @@
     "react-scripts": "3.0.1",
     "tachyons": "^4.11.1"
   },
-  "homepage": "https://github.io/BenyominWalters/Robofriends",
+  "homepage": "https://BenyominWalters.github.io/Robofriends",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
